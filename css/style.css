@@ -161,7 +161,6 @@ header p{
 .text-block{
   align-self: center;
   justify-self: center;
-
   background-color: rgba(255, 255, 255, .8);
   border: 10px solid black;
   padding: 30px;
